@@ -5,7 +5,7 @@ inputs:
   iso-profiles-repo:
     description: 'iso profiles to clone'
     required: false
-    default: 'https://gitlab.manjaro.org/profiles-and-settings/iso-profiles'
+    default: 'https://github.com/kamarada/iso-profiles'
   iso-profiles-branch:
     description: 'branch of the iso profiles to check out'
     required: false
